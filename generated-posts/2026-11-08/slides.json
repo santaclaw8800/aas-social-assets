@@ -1,0 +1,50 @@
+{
+  "date": "2026-11-08",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "92 events across Golf, Soccer, NFL, College Basketball, International Basketball, NHL, NBA."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at World Wide Technology Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "DP World Tour at Abu Dhabi Aldar Championship 12:00 AM ET on Golf Chnl"
+    },
+    {
+      "title": "Game 3",
+      "body": "Feyenoord Rotterdam at Heerenveen 6:15 AM ET on ESPN+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Lazio at Napoli 6:30 AM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Real Betis at Elche 8:00 AM ET on ESPN+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png",
+    "slide-11.png",
+    "slide-12.png",
+    "slide-13.png",
+    "slide-14.png",
+    "slide-15.png",
+    "slide-16.png",
+    "slide-17.png",
+    "slide-18.png"
+  ],
+  "generatedAt": "2026-11-08T11:00:12.576Z"
+}
