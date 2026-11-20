@@ -1,0 +1,25 @@
+{
+  "date": "2026-11-20",
+  "scheduleHash": "4c7a52bc0278018a19bfc3fa6ee8611c1934cbc021209e6aaeba52a79cc38363",
+  "reason": "catchup-llm",
+  "source": "openai",
+  "generatedAt": "2026-11-19T06:10:17.178Z",
+  "model": "gpt-5.4-mini",
+  "maxOutputTokens": 1200,
+  "openAiUsage": {
+    "input_tokens": 817,
+    "input_tokens_details": {
+      "cache_write_tokens": 0,
+      "cache_write_tokens_details": {
+        "ttl_12h_tokens": 0,
+        "ttl_30m_tokens": 0
+      },
+      "cached_tokens": 0
+    },
+    "output_tokens": 398,
+    "output_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "total_tokens": 1215
+  }
+}

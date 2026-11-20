@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-20",
+  "slides": [
+    {
+      "title": "Top events today",
+      "body": "RSM Classic and CME Championship start at 12:00 AM ET. F1 Las Vegas Grand Prix is 7:30 PM ET on Apple TV."
+    },
+    {
+      "title": "Soccer watch guide",
+      "body": "Bundesliga, Ligue 1, and La Liga all hit the slate. Watch Bayern, Espanyol, and more on USA Network, ESPN+, and others."
+    },
+    {
+      "title": "College slate",
+      "body": "Big games on ACC Network, SECN+, and FS1. Miami, Kentucky, Tennessee, UCF, and Virginia are all in action."
+    },
+    {
+      "title": "NBA schedule",
+      "body": "Hornets at Hawks, Magic at Nets, and Pacers at Cavaliers tip off at 7:00-7:30 PM ET. Watch on DAZN and local feeds."
+    },
+    {
+      "title": "League pass note",
+      "body": "International Basketball also runs early and evening games. Check NBA App and Cozi TV for selected coverage."
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png"
+  ],
+  "generatedAt": "2026-11-19T06:10:17.178Z"
+}
