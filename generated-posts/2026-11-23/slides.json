@@ -1,0 +1,38 @@
+{
+  "date": "2026-11-23",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "34 events across Golf, College Basketball, Soccer, NBA, NHL, NFL, International Basketball."
+    },
+    {
+      "title": "Game 1",
+      "body": "PGA Tour at The RSM Classic 12:00 AM ET on ESPN+ / Golf Chnl"
+    },
+    {
+      "title": "Game 2",
+      "body": "Utah Utes at Iowa Hawkeyes 1:30 PM ET on BDG Sports Live"
+    },
+    {
+      "title": "Game 3",
+      "body": "Oklahoma Sooners at Virginia Cavaliers 2:30 PM ET on Check listings"
+    },
+    {
+      "title": "Game 4",
+      "body": "Fiorentina at Monza 2:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Everton at Brentford 3:00 PM ET on USA Net"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png"
+  ],
+  "generatedAt": "2026-11-23T04:30:20.888Z"
+}
