@@ -4,25 +4,6 @@
     "date": "2026-11-24",
     "games": [
       {
-        "id": "pga-401850981",
-        "sport": "Golf",
-        "homeTeam": {
-          "name": "The RSM Classic"
-        },
-        "awayTeam": {
-          "name": "PGA Tour"
-        },
-        "startTime": "2026-11-19T05:00Z",
-        "timeET": "12:00 AM ET",
-        "channels": [
-          "ESPN+",
-          "Golf Chnl"
-        ],
-        "status": "live",
-        "isNational": true,
-        "tournament": "PGA Tour"
-      },
-      {
         "id": "ucl-401915380",
         "sport": "Soccer",
         "homeTeam": {
@@ -110,6 +91,28 @@
         ],
         "status": "upcoming",
         "venue": "CareFirst Arena, Washington, DC"
+      },
+      {
+        "id": "ncaam-401921709",
+        "sport": "College Basketball",
+        "homeTeam": {
+          "name": "BYU Cougars",
+          "abbreviation": "BYU",
+          "record": "6-0"
+        },
+        "awayTeam": {
+          "name": "Ole Miss Rebels",
+          "abbreviation": "MISS",
+          "record": "5-0"
+        },
+        "startTime": "2026-11-24T19:30Z",
+        "timeET": "2:30 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "Lahaina Civic Center, Maui, HI",
+        "isNational": true
       },
       {
         "id": "scottishprem-401878348",
@@ -558,13 +561,35 @@
         "awayTeam": {
           "name": "Oklahoma Sooners",
           "abbreviation": "OU",
-          "record": "6-0"
+          "record": "7-0"
         },
         "startTime": "2026-11-24T21:00Z",
         "timeET": "4:00 PM ET",
         "channels": [],
         "status": "upcoming",
         "venue": "The Reef, Jacksonville, FL"
+      },
+      {
+        "id": "ncaam-401921710",
+        "sport": "College Basketball",
+        "homeTeam": {
+          "name": "Arizona Wildcats",
+          "abbreviation": "ARIZ",
+          "record": "5-1"
+        },
+        "awayTeam": {
+          "name": "Providence Friars",
+          "abbreviation": "PROV",
+          "record": "5-1"
+        },
+        "startTime": "2026-11-24T22:00Z",
+        "timeET": "5:00 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "Lahaina Civic Center, Maui, HI",
+        "isNational": true
       },
       {
         "id": "ncaaw-401921306",
@@ -586,28 +611,6 @@
         ],
         "status": "upcoming",
         "venue": "Mohegan Sun Arena, Uncasville, CT",
-        "isNational": true
-      },
-      {
-        "id": "ncaam-401909495",
-        "sport": "College Basketball",
-        "homeTeam": {
-          "name": "Michigan Wolverines",
-          "abbreviation": "MICH",
-          "record": "3-2"
-        },
-        "awayTeam": {
-          "name": "Creighton Bluejays",
-          "abbreviation": "CREI",
-          "record": "4-1"
-        },
-        "startTime": "2026-11-24T22:30Z",
-        "timeET": "5:30 PM ET",
-        "channels": [
-          "ESPN"
-        ],
-        "status": "upcoming",
-        "venue": "T-Mobile Arena, Las Vegas, NV",
         "isNational": true
       },
       {
@@ -671,6 +674,28 @@
         ],
         "status": "upcoming",
         "venue": "Schottenstein Center, Columbus, OH",
+        "isNational": true
+      },
+      {
+        "id": "ncaam-401916291",
+        "sport": "College Basketball",
+        "homeTeam": {
+          "name": "Indiana Hoosiers",
+          "abbreviation": "IU",
+          "record": "6-0"
+        },
+        "awayTeam": {
+          "name": "Jacksonville Dolphins",
+          "abbreviation": "JAX",
+          "record": "2-4"
+        },
+        "startTime": "2026-11-25T00:00Z",
+        "timeET": "7:00 PM ET",
+        "channels": [
+          "B1G+"
+        ],
+        "status": "upcoming",
+        "venue": "Simon Skjodt Assembly Hall, Bloomington, IN",
         "isNational": true
       },
       {
@@ -1028,60 +1053,48 @@
         "isNational": true
       }
     ],
-    "lastUpdated": "2026-11-23T04:30:06.237Z"
+    "lastUpdated": "2026-11-24T11:00:05.424Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Tuesday, November 24, 2026\n\n⛳ Golf  ·  ⚽ Soccer  ·  🏀 College Basketball  ·  🏀 International Basketball  ·  🏀 NBA  ·  🏈 College Football  ·  🏒 NHL\n\n47 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#Golf #PGA #PGATour #LPGA #LIVGolf #ChampionsTour #DPWorldTour\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#MarchMadness #CollegeBasketball #NCAAB #NCAABasketball #CollegeHoops #FinalFour\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#CollegeFootball #NCAAF #CFB #CFBPlayoff\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Tuesday brings a packed slate: UEFA Champions League, EFL Championship, college hoops, and more. Stream key matches on Paramount+, ESPN/ESPN2/ESPNU, ESPN+, and the NBA App. Full schedule below. Follow @any_and_all_sports for daily sports watch guides.",
     "hashtags": [
-      "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
-      "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#Golf",
-      "#PGA",
-      "#PGATour",
-      "#LPGA",
-      "#LIVGolf",
-      "#ChampionsTour",
-      "#DPWorldTour",
-      "#Soccer",
-      "#Football",
-      "#PremierLeague",
+      "#NBA",
+      "#NHL",
+      "#MLB",
+      "#MLS",
+      "#WNBA",
+      "#EPL",
       "#LaLiga",
-      "#SerieA",
-      "#Bundesliga"
+      "#CollegeBasketball",
+      "#ChampionsLeague",
+      "#Soccer",
+      "#SportsSchedule",
+      "#WatchGuide"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "47 events across Golf, Soccer, College Basketball, International Basketball, NBA, College Football, NHL."
+        "title": "Tuesday at a Glance",
+        "body": "Big day across soccer, college hoops, and the NBA ecosystem. Stream on Paramount+, ESPN, ESPN2, ESPNU, ESPN+, and NBA App."
       },
       {
-        "title": "Game 1",
-        "body": "PGA Tour at The RSM Classic 12:00 AM ET on ESPN+ / Golf Chnl"
+        "title": "UCL Kickoffs",
+        "body": "12:45 PM ET: LASK Linz at Bodo/Glimt and Aston Villa at Galatasaray. Watch both on Paramount+."
       },
       {
-        "title": "Game 2",
-        "body": "LASK Linz at Bodo/Glimt 12:45 PM ET on Paramount+"
+        "title": "Afternoon Soccer",
+        "body": "3:00 PM ET: Dortmund at Arsenal, AEK Athens at Como, and Porto at Feyenoord. All on Paramount+."
       },
       {
-        "title": "Game 3",
-        "body": "Aston Villa at Galatasaray 12:45 PM ET on Paramount+"
+        "title": "Top College Hoops",
+        "body": "1:00 PM ET Davidson at Notre Dame on ESPN+; 2:30 PM ET Ole Miss at BYU on ESPN2; 3:00 PM ET Tennessee at Maryland on ESPN."
       },
       {
-        "title": "Game 4",
-        "body": "Davidson Wildcats at Notre Dame Fighting Irish 1:00 PM ET on ESPN+"
+        "title": "More Games",
+        "body": "3:00 PM ET Miami at TCU on ESPNU, plus Long Island Nets at Capital City Go-Go at 2:00 PM ET on NBA App."
       },
       {
-        "title": "Game 5",
-        "body": "Long Island Nets at Capital City Go-Go 2:00 PM ET on NBA App"
+        "title": "Follow for Daily Schedules",
+        "body": "Get the full slate every day and follow @any_and_all_sports for quick, schedule-first sports updates."
       }
     ],
     "pngFiles": [
@@ -1096,5 +1109,5 @@
       "slide-9.png"
     ]
   },
-  "lastUpdated": "2026-11-23T04:30:21.885Z"
+  "lastUpdated": "2026-11-24T11:00:14.728Z"
 }
