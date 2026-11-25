@@ -9,12 +9,12 @@
         "homeTeam": {
           "name": "Iowa Hawkeyes",
           "abbreviation": "IOWA",
-          "record": "5-1"
+          "record": "6-1"
         },
         "awayTeam": {
           "name": "Navy Midshipmen",
           "abbreviation": "NAVY",
-          "record": "4-2"
+          "record": "4-3"
         },
         "startTime": "2026-11-25T16:00Z",
         "timeET": "11:00 AM ET",
@@ -98,16 +98,18 @@
         "homeTeam": {
           "name": "Michigan Wolverines",
           "abbreviation": "MICH",
-          "record": "5-0"
+          "record": "6-0"
         },
         "awayTeam": {
           "name": "Toledo Rockets",
           "abbreviation": "TOL",
-          "record": "3-2"
+          "record": "4-2"
         },
         "startTime": "2026-11-25T18:30Z",
         "timeET": "1:30 PM ET",
-        "channels": [],
+        "channels": [
+          "BDG Sports Live"
+        ],
         "status": "upcoming",
         "venue": "Baha Mar Convention Center, Nassau, Bahamas"
       },
@@ -131,6 +133,28 @@
         ],
         "status": "upcoming",
         "venue": "Acrisure Arena, Palm Springs, CA",
+        "isNational": true
+      },
+      {
+        "id": "ncaam-401921715",
+        "sport": "College Basketball",
+        "homeTeam": {
+          "name": "Arizona Wildcats",
+          "abbreviation": "ARIZ",
+          "record": "6-1"
+        },
+        "awayTeam": {
+          "name": "Ole Miss Rebels",
+          "abbreviation": "MISS",
+          "record": "6-0"
+        },
+        "startTime": "2026-11-25T19:30Z",
+        "timeET": "2:30 PM ET",
+        "channels": [
+          "ESPN"
+        ],
+        "status": "upcoming",
+        "venue": "Lahaina Civic Center, Maui, HI",
         "isNational": true
       },
       {
@@ -408,7 +432,7 @@
         "homeTeam": {
           "name": "Philadelphia 76ers",
           "abbreviation": "PHI",
-          "record": "14-3"
+          "record": "14-4"
         },
         "awayTeam": {
           "name": "Miami Heat",
@@ -447,17 +471,61 @@
         "isNational": true
       },
       {
+        "id": "ncaam-401917182",
+        "sport": "College Basketball",
+        "homeTeam": {
+          "name": "Penn State Nittany Lions",
+          "abbreviation": "PSU",
+          "record": "5-1"
+        },
+        "awayTeam": {
+          "name": "Memphis Tigers",
+          "abbreviation": "MEM",
+          "record": "4-1"
+        },
+        "startTime": "2026-11-25T22:00Z",
+        "timeET": "5:00 PM ET",
+        "channels": [
+          "ESPNU"
+        ],
+        "status": "upcoming",
+        "venue": "Imperial Arena, Nassau, Bahamas",
+        "isNational": true
+      },
+      {
+        "id": "ncaam-401921716",
+        "sport": "College Basketball",
+        "homeTeam": {
+          "name": "Providence Friars",
+          "abbreviation": "PROV",
+          "record": "5-2"
+        },
+        "awayTeam": {
+          "name": "BYU Cougars",
+          "abbreviation": "BYU",
+          "record": "6-1"
+        },
+        "startTime": "2026-11-25T22:30Z",
+        "timeET": "5:30 PM ET",
+        "channels": [
+          "ESPN2"
+        ],
+        "status": "upcoming",
+        "venue": "Lahaina Civic Center, Maui, HI",
+        "isNational": true
+      },
+      {
         "id": "ncaaw-401918832",
         "sport": "College Basketball",
         "homeTeam": {
           "name": "Oregon State Beavers",
           "abbreviation": "ORST",
-          "record": "4-2"
+          "record": "4-3"
         },
         "awayTeam": {
           "name": "Vanderbilt Commodores",
           "abbreviation": "VAN",
-          "record": "5-1"
+          "record": "6-1"
         },
         "startTime": "2026-11-25T23:30Z",
         "timeET": "6:30 PM ET",
@@ -471,12 +539,12 @@
         "homeTeam": {
           "name": "Charlotte Hornets",
           "abbreviation": "CHA",
-          "record": "4-11"
+          "record": "4-12"
         },
         "awayTeam": {
           "name": "Chicago Bulls",
           "abbreviation": "CHI",
-          "record": "4-12"
+          "record": "5-12"
         },
         "startTime": "2026-11-26T00:00Z",
         "timeET": "7:00 PM ET",
@@ -539,7 +607,7 @@
         "awayTeam": {
           "name": "Winnipeg Jets",
           "abbreviation": "WPG",
-          "record": "11-9-4"
+          "record": "12-9-4"
         },
         "startTime": "2026-11-26T00:00Z",
         "timeET": "7:00 PM ET",
@@ -609,7 +677,7 @@
         "awayTeam": {
           "name": "Ottawa Senators",
           "abbreviation": "OTT",
-          "record": "15-6-3"
+          "record": "16-6-3"
         },
         "startTime": "2026-11-26T00:00Z",
         "timeET": "7:00 PM ET",
@@ -627,7 +695,7 @@
         "homeTeam": {
           "name": "New York Islanders",
           "abbreviation": "NYI",
-          "record": "11-6-5"
+          "record": "11-7-5"
         },
         "awayTeam": {
           "name": "St. Louis Blues",
@@ -657,7 +725,7 @@
         "awayTeam": {
           "name": "Calgary Flames",
           "abbreviation": "CGY",
-          "record": "10-12-2"
+          "record": "10-13-2"
         },
         "startTime": "2026-11-26T00:00Z",
         "timeET": "7:00 PM ET",
@@ -698,12 +766,12 @@
         "homeTeam": {
           "name": "Columbus Blue Jackets",
           "abbreviation": "CBJ",
-          "record": "9-12-0"
+          "record": "9-13-0"
         },
         "awayTeam": {
           "name": "New Jersey Devils",
           "abbreviation": "NJ",
-          "record": "15-8-0"
+          "record": "16-8-0"
         },
         "startTime": "2026-11-26T00:00Z",
         "timeET": "7:00 PM ET",
@@ -748,7 +816,7 @@
         "awayTeam": {
           "name": "Cleveland Cavaliers",
           "abbreviation": "CLE",
-          "record": "9-8"
+          "record": "9-9"
         },
         "startTime": "2026-11-26T00:30Z",
         "timeET": "7:30 PM ET",
@@ -764,12 +832,12 @@
         "homeTeam": {
           "name": "Oklahoma City Thunder",
           "abbreviation": "OKC",
-          "record": "10-7"
+          "record": "10-8"
         },
         "awayTeam": {
           "name": "Minnesota Timberwolves",
           "abbreviation": "MIN",
-          "record": "12-5"
+          "record": "13-5"
         },
         "startTime": "2026-11-26T00:30Z",
         "timeET": "7:30 PM ET",
@@ -831,12 +899,12 @@
         "homeTeam": {
           "name": "Laketown Squadron",
           "abbreviation": "LAK",
-          "record": "2-3"
+          "record": "2-4"
         },
         "awayTeam": {
           "name": "Osceola Magic",
           "abbreviation": "OSC",
-          "record": "4-1"
+          "record": "5-1"
         },
         "startTime": "2026-11-26T00:30Z",
         "timeET": "7:30 PM ET",
@@ -852,12 +920,12 @@
         "homeTeam": {
           "name": "Memphis Grizzlies",
           "abbreviation": "MEM",
-          "record": "12-5"
+          "record": "13-5"
         },
         "awayTeam": {
           "name": "LA Clippers",
           "abbreviation": "LAC",
-          "record": "4-11"
+          "record": "4-12"
         },
         "startTime": "2026-11-26T01:00Z",
         "timeET": "8:00 PM ET",
@@ -873,12 +941,12 @@
         "homeTeam": {
           "name": "Milwaukee Bucks",
           "abbreviation": "MIL",
-          "record": "1-16"
+          "record": "2-16"
         },
         "awayTeam": {
           "name": "Brooklyn Nets",
           "abbreviation": "BKN",
-          "record": "3-12"
+          "record": "3-13"
         },
         "startTime": "2026-11-26T01:00Z",
         "timeET": "8:00 PM ET",
@@ -943,12 +1011,12 @@
         "homeTeam": {
           "name": "Minnesota Wild",
           "abbreviation": "MIN",
-          "record": "17-3-5"
+          "record": "18-3-5"
         },
         "awayTeam": {
           "name": "Utah Mammoth",
           "abbreviation": "UTA",
-          "record": "12-9-3"
+          "record": "12-10-3"
         },
         "startTime": "2026-11-26T01:00Z",
         "timeET": "8:00 PM ET",
@@ -963,17 +1031,35 @@
         "isNational": true
       },
       {
+        "id": "ligamx-401931986",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Toluca",
+          "abbreviation": "TOL"
+        },
+        "awayTeam": {
+          "name": "Atlas",
+          "abbreviation": "ATS"
+        },
+        "startTime": "2026-11-26T01:00Z",
+        "timeET": "8:00 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estadio Nemesio Díez Riega, Toluca",
+        "tournament": "Liga MX"
+      },
+      {
         "id": "nba-401909323",
         "sport": "NBA",
         "homeTeam": {
           "name": "Houston Rockets",
           "abbreviation": "HOU",
-          "record": "12-5"
+          "record": "13-5"
         },
         "awayTeam": {
           "name": "Phoenix Suns",
           "abbreviation": "PHX",
-          "record": "8-7"
+          "record": "9-7"
         },
         "startTime": "2026-11-26T01:30Z",
         "timeET": "8:30 PM ET",
@@ -995,7 +1081,7 @@
         "awayTeam": {
           "name": "Montreal Canadiens",
           "abbreviation": "MTL",
-          "record": "14-6-4"
+          "record": "14-7-4"
         },
         "startTime": "2026-11-26T02:30Z",
         "timeET": "9:30 PM ET",
@@ -1014,7 +1100,7 @@
         "homeTeam": {
           "name": "Seattle Kraken",
           "abbreviation": "SEA",
-          "record": "10-9-1"
+          "record": "11-9-1"
         },
         "awayTeam": {
           "name": "Chicago Blackhawks",
@@ -1044,7 +1130,7 @@
         "awayTeam": {
           "name": "Sacramento Kings",
           "abbreviation": "SAC",
-          "record": "2-14"
+          "record": "2-15"
         },
         "startTime": "2026-11-26T03:00Z",
         "timeET": "10:00 PM ET",
@@ -1058,12 +1144,12 @@
         "homeTeam": {
           "name": "Portland Trail Blazers",
           "abbreviation": "POR",
-          "record": "10-6"
+          "record": "11-6"
         },
         "awayTeam": {
           "name": "San Antonio Spurs",
           "abbreviation": "SA",
-          "record": "14-3"
+          "record": "15-3"
         },
         "startTime": "2026-11-26T03:00Z",
         "timeET": "10:00 PM ET",
@@ -1082,12 +1168,12 @@
         "homeTeam": {
           "name": "Anaheim Ducks",
           "abbreviation": "ANA",
-          "record": "11-12-1"
+          "record": "11-13-1"
         },
         "awayTeam": {
           "name": "San Jose Sharks",
           "abbreviation": "SJ",
-          "record": "11-12-2"
+          "record": "11-13-2"
         },
         "startTime": "2026-11-26T03:00Z",
         "timeET": "10:00 PM ET",
@@ -1101,62 +1187,71 @@
         "status": "upcoming",
         "venue": "Honda Center, Anaheim, CA",
         "isNational": true
+      },
+      {
+        "id": "ligamx-401931998",
+        "sport": "Soccer",
+        "homeTeam": {
+          "name": "Monterrey",
+          "abbreviation": "MTY"
+        },
+        "awayTeam": {
+          "name": "América",
+          "abbreviation": "AME"
+        },
+        "startTime": "2026-11-26T03:10Z",
+        "timeET": "10:10 PM ET",
+        "channels": [],
+        "status": "upcoming",
+        "venue": "Estadio BBVA, Guadalupe",
+        "tournament": "Liga MX"
       }
     ],
-    "lastUpdated": "2026-11-23T04:30:06.526Z"
+    "lastUpdated": "2026-11-25T11:00:06.109Z"
   },
   "social": {
-    "caption": "🏟️ What's On Tonight — Wednesday, November 25, 2026\n\n🏀 College Basketball  ·  ⚽ Soccer  ·  🏀 NBA  ·  🏒 NHL  ·  🏀 International Basketball  ·  🏈 NFL\n\n49 games on tonight — swipe to see the full schedule with channel info!\n\nKnow where to watch. Every game. Every channel.\n📲 Follow @any_and_all_sports for daily schedules!\n\n— — — — — — — — — —\n\n#AnyAndAllSports #WhatsOnTonight #SportsTonight\n#SportsSchedule #SportsTV #SportsTVSchedule #WatchSports\n#WhereToWatch #GameTonight #SportsOnTV #LiveSports\n\n#MarchMadness #CollegeBasketball #NCAAB #NCAABasketball #CollegeHoops #FinalFour\n#Soccer #Football #PremierLeague #LaLiga #SerieA #Bundesliga #MLS #UCL #ChampionsLeague\n#NBA #NBATonight #NBABasketball #NBAonESPN #NBAonTNT\n#NHL #NHLTonight #Hockey #StanleyCup #NHLonTNT #NHLonESPN\n#FIBA #EuroLeague #InternationalBasketball #BasketballWorldCup\n#NFL #NFLTonight #Football #NFLSunday #MondayNightFootball #TNF\n\n#NBA #NFL #MLB #NHL #Soccer #Golf #UFC #Tennis #F1\n#CollegeBasketball #MarchMadness #WNBA #NASCAR\n#ESPN #FOXSports #TNT #NBC #Peacock #AppleTV #Netflix\n#SportsContent #SportsMedia #SportsNews #DailySports",
+    "caption": "Big midweek slate: NBA, NHL, college hoops, and a packed Champions League window. Early tip-offs start at 11 AM ET, then soccer rolls through the afternoon with Barça, Liverpool, Bayern, PSG, and more. Check your local listings and watch on ESPN, CBSSN, Paramount+, and BDG Sports Live. Follow @any_and_all_sports for daily schedules.",
     "hashtags": [
       "#AnyAndAllSports",
-      "#WhatsOnTonight",
-      "#SportsTonight",
       "#SportsSchedule",
-      "#SportsTV",
-      "#SportsTVSchedule",
-      "#WatchSports",
-      "#WhereToWatch",
-      "#GameTonight",
-      "#SportsOnTV",
-      "#LiveSports",
-      "#MarchMadness",
+      "#NBA",
+      "#NHL",
       "#CollegeBasketball",
-      "#NCAAB",
-      "#NCAABasketball",
-      "#CollegeHoops",
-      "#FinalFour",
       "#Soccer",
-      "#Football",
-      "#PremierLeague",
-      "#LaLiga",
-      "#SerieA",
-      "#Bundesliga",
-      "#MLS"
+      "#UEFAChampionsLeague",
+      "#EFLChampionship",
+      "#ESPN",
+      "#ParamountPlus",
+      "#CBSSN",
+      "#BDGSportsLive",
+      "#WatchLive",
+      "#DailySports",
+      "#SportsToday"
     ],
     "slides": [
       {
-        "title": "What's On Tonight",
-        "body": "49 events across College Basketball, Soccer, NBA, NHL, International Basketball, NFL."
+        "title": "Early Hoops Start",
+        "body": "11:00 AM ET: Navy at Iowa on BDG Sports Live. Noon ET: Virginia at Marquette on ESPN."
       },
       {
-        "title": "Game 1",
-        "body": "Navy Midshipmen at Iowa Hawkeyes 11:00 AM ET on BDG Sports Live"
+        "title": "Afternoon CBB",
+        "body": "1:30 PM ET Toledo at Michigan. 2:00 PM ET Arizona State at LSU on CBSSN."
       },
       {
-        "title": "Game 2",
-        "body": "Virginia Cavaliers at Marquette Golden Eagles 12:00 PM ET on ESPN"
+        "title": "More Hoops",
+        "body": "2:30 PM ET Ole Miss at Arizona on ESPN. Full day of college basketball action."
       },
       {
-        "title": "Game 3",
-        "body": "Barcelona at Sabah FK 12:45 PM ET on Paramount+"
+        "title": "UCL at 12:45 PM",
+        "body": "Barcelona at Sabah FK and Villarreal at Slavia Prague, both on Paramount+."
       },
       {
-        "title": "Game 4",
-        "body": "Villarreal at Slavia Prague 12:45 PM ET on Paramount+"
+        "title": "3 PM Soccer Block",
+        "body": "Liverpool, Bayern, PSG, Inter, and more all on Paramount+ in Champions League play."
       },
       {
-        "title": "Game 5",
-        "body": "Toledo Rockets at Michigan Wolverines 1:30 PM ET on Check listings"
+        "title": "Follow the Schedule",
+        "body": "Check local listings, watch where available, and follow @any_and_all_sports for daily drops."
       }
     ],
     "pngFiles": [
@@ -1169,8 +1264,9 @@
       "slide-7.png",
       "slide-8.png",
       "slide-9.png",
-      "slide-10.png"
+      "slide-10.png",
+      "slide-11.png"
     ]
   },
-  "lastUpdated": "2026-11-23T04:30:22.950Z"
+  "lastUpdated": "2026-11-25T11:00:13.237Z"
 }
