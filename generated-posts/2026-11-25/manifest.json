@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-25",
+  "scheduleHash": "e6fe12b7c82d4523b356783dbbc1d056efe09917627a52d6e144457149c142bd",
+  "reason": "weekly",
+  "source": "deterministic",
+  "generatedAt": "2026-11-23T04:30:22.950Z",
+  "model": null,
+  "maxOutputTokens": 1200,
+  "openAiUsage": null
+}

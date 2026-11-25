@@ -1,0 +1,42 @@
+{
+  "date": "2026-11-25",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "49 events across College Basketball, Soccer, NBA, NHL, International Basketball, NFL."
+    },
+    {
+      "title": "Game 1",
+      "body": "Navy Midshipmen at Iowa Hawkeyes 11:00 AM ET on BDG Sports Live"
+    },
+    {
+      "title": "Game 2",
+      "body": "Virginia Cavaliers at Marquette Golden Eagles 12:00 PM ET on ESPN"
+    },
+    {
+      "title": "Game 3",
+      "body": "Barcelona at Sabah FK 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 4",
+      "body": "Villarreal at Slavia Prague 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "Toledo Rockets at Michigan Wolverines 1:30 PM ET on Check listings"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png",
+    "slide-10.png"
+  ],
+  "generatedAt": "2026-11-23T04:30:22.950Z"
+}
