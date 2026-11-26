@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-26",
+  "slides": [
+    {
+      "title": "What's On Tonight",
+      "body": "49 events across Golf, Soccer, College Basketball, NFL, College Football."
+    },
+    {
+      "title": "Game 1",
+      "body": "DP World Tour at BMW Australian PGA Championship 12:00 AM ET on Check listings"
+    },
+    {
+      "title": "Game 2",
+      "body": "Mjällby AIF at Kairat Almaty 10:30 AM ET on Paramount+"
+    },
+    {
+      "title": "Game 3",
+      "body": "West Virginia Mountaineers at Notre Dame Fighting Irish 11:30 AM ET on ESPN2"
+    },
+    {
+      "title": "Game 4",
+      "body": "Hapoel Be'er at Besiktas 12:45 PM ET on Paramount+"
+    },
+    {
+      "title": "Game 5",
+      "body": "AFC Bournemouth at Celta Vigo 12:45 PM ET on Paramount+"
+    }
+  ],
+  "pngFiles": [
+    "slide-1.png",
+    "slide-2.png",
+    "slide-3.png",
+    "slide-4.png",
+    "slide-5.png",
+    "slide-6.png",
+    "slide-7.png",
+    "slide-8.png",
+    "slide-9.png"
+  ],
+  "generatedAt": "2026-11-23T04:30:23.920Z"
+}
