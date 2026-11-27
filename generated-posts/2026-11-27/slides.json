@@ -2,28 +2,24 @@
   "date": "2026-11-27",
   "slides": [
     {
-      "title": "What's On Tonight",
-      "body": "74 events across Golf, F1, College Basketball, College Football, NHL, International Basketball, Soccer, NFL, NBA."
+      "title": "Early Start",
+      "body": "DP World Tour: BMW Australian PGA Championship at 12:00 AM ET on Golf Channel."
     },
     {
-      "title": "Game 1",
-      "body": "DP World Tour at BMW Australian PGA Championship 12:00 AM ET on Check listings"
+      "title": "Morning Motorsports",
+      "body": "F1 Qatar Grand Prix starts 8:30 AM ET on Apple TV."
     },
     {
-      "title": "Game 2",
-      "body": "Formula 1 at Qatar Airways Qatar Grand Prix 8:30 AM ET on Apple TV"
+      "title": "Midday College Slate",
+      "body": "Hoops and football roll from 11:00 AM ET on ESPN2, ABC, ESPN, CBS, and more."
     },
     {
-      "title": "Game 3",
-      "body": "Virginia Cavaliers at Xavier Musketeers 11:00 AM ET on ESPN2"
+      "title": "NHL Noon Window",
+      "body": "Bruins-Leafs, Devils-Flames, and Predators-Mammoth all drop at 1:00 PM ET."
     },
     {
-      "title": "Game 4",
-      "body": "Marquette Golden Eagles at Illinois Fighting Illini 11:00 AM ET on FloSports"
-    },
-    {
-      "title": "Game 5",
-      "body": "Nebraska Cornhuskers at Iowa Hawkeyes 12:00 PM ET on CBS"
+      "title": "More Hoops",
+      "body": "G League: Go-Go at Knicks at 1:00 PM ET on NBA TV and DAZN."
     }
   ],
   "pngFiles": [
@@ -41,7 +37,8 @@
     "slide-12.png",
     "slide-13.png",
     "slide-14.png",
-    "slide-15.png"
+    "slide-15.png",
+    "slide-16.png"
   ],
-  "generatedAt": "2026-11-23T04:30:25.333Z"
+  "generatedAt": "2026-11-27T11:00:13.852Z"
 }
